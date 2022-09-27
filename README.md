@@ -11,6 +11,6 @@ things for bloxflip
 >
 >   get your bloxflip token
 
-> - <u>login with token.js</u>
+> - <u>dont run me in bloxflip.js</u>
 >
->   Lets you login to bloxflip using a token
+>   ????
